@@ -1,0 +1,1011 @@
+[25-May-2017 14:57:22 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 28
+[25-May-2017 14:58:57 UTC] PHP Notice:  Undefined variable: ft_tasks in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 28
+[25-May-2017 14:58:57 UTC] PHP Notice:  Undefined variable: ft_tasks1 in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 28
+[25-May-2017 18:02:55 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:03:59 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:05:24 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:06:08 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:06:31 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:07:35 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:07:40 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:08:15 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:09:35 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:12:09 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:12:16 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 18:21:32 UTC] PHP Notice:  Undefined variable: emparray in /home/orlfamily/public_html/omg2k17/mentor/dist/mad3.php on line 73
+[25-May-2017 19:05:42 UTC] PHP Notice:  Undefined index: user_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 19
+[25-May-2017 19:05:42 UTC] PHP Notice:  Undefined index: user_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 49
+[25-May-2017 19:11:29 UTC] PHP Notice:  Undefined variable: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 7
+[25-May-2017 20:48:14 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 13
+[25-May-2017 21:00:56 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 17
+[25-May-2017 21:17:19 UTC] PHP Parse error:  syntax error, unexpected '$ft_tasks' (T_VARIABLE), expecting '(' in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 40
+[25-May-2017 21:20:22 UTC] PHP Notice:  Undefined index: team_id in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 38
+[25-May-2017 21:20:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 38
+[25-May-2017 21:22:12 UTC] PHP Notice:  Array to string conversion in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 45
+[25-May-2017 21:22:44 UTC] PHP Parse error:  syntax error, unexpected 'array_intersect' (T_STRING) in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 45
+[25-May-2017 21:22:45 UTC] PHP Parse error:  syntax error, unexpected 'array_intersect' (T_STRING) in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 45
+[25-May-2017 21:23:44 UTC] PHP Parse error:  syntax error, unexpected 'array_intersect' (T_STRING) in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 45
+[25-May-2017 21:29:32 UTC] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:29:32 UTC] PHP Notice:  Undefined index: i in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:29:32 UTC] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:29:32 UTC] PHP Notice:  Undefined index: i in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:30:03 UTC] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:30:03 UTC] PHP Notice:  Undefined index: i in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:30:03 UTC] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:30:03 UTC] PHP Notice:  Undefined index: i in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[25-May-2017 21:32:11 UTC] PHP Notice:  Undefined offset: 2 in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 53
+[25-May-2017 21:32:11 UTC] PHP Notice:  Undefined offset: 2 in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 53
+[25-May-2017 21:32:11 UTC] PHP Notice:  Undefined offset: 2 in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 53
+[25-May-2017 21:32:32 UTC] PHP Notice:  Undefined offset: 3 in /home/orlfamily/public_html/omg2k17/mentor/dist/mad6.php on line 49
+[26-May-2017 14:34:44 UTC] PHP Notice:  Undefined index: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 18
+[26-May-2017 14:34:44 UTC] PHP Notice:  Undefined index: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 18
+[26-May-2017 14:34:44 UTC] PHP Notice:  Undefined index: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 18
+[26-May-2017 14:34:44 UTC] PHP Notice:  Undefined index: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 18
+[26-May-2017 14:34:44 UTC] PHP Notice:  Undefined index: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 48
+[26-May-2017 14:34:44 UTC] PHP Notice:  Undefined index: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 48
+[26-May-2017 14:34:44 UTC] PHP Notice:  Undefined index: mentor_email in /home/orlfamily/public_html/omg2k17/mentor/dist/mad4.php on line 48
+[30-May-2017 13:33:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/orlfamily/public_html/omg2k17/mentor/dist/mad77.php on line 23
+[05-Jun-2017 14:53:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad3.php on line 9
+[05-Jun-2017 14:53:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad3.php on line 9
+[05-Jun-2017 20:23:02 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad1.php on line 14
+[05-Jun-2017 20:23:02 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad1.php on line 14
+[05-Jun-2017 14:53:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad2.php on line 8
+[05-Jun-2017 14:53:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad2.php on line 8
+[05-Jun-2017 14:53:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:21 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:22 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:22 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:22 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:22 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:24 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:25 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:25 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:25 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:25 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:27 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:28 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:28 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:28 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:28 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:30 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:30 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:31 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:31 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:31 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:31 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:34 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:34 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:34 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:36 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:36 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:36 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:36 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:36 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:36 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:39 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:39 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:39 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:51 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:51 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:51 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:53:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:53:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:53:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:21 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:21 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:21 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:24 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:24 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:24 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:27 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:27 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:27 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:30 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:30 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:30 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:30 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:30 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:30 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:33 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:33 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:33 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:33 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:33 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:33 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:36 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:36 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:36 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:36 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:36 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:36 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:39 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:39 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:39 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:51 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:51 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:51 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:54:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:54:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:54:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:21 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:21 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:21 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:21 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:24 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad4.php on line 10
+[05-Jun-2017 14:55:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:24 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[05-Jun-2017 14:55:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[05-Jun-2017 14:55:24 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad6.php on line 8
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:54 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:55 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:56 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:57 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:58 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:34:59 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:00 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 15:05:01 Asia/Kolkata] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad1.php on line 14
+[06-Jun-2017 15:05:01 Asia/Kolkata] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad1.php on line 14
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad2.php on line 8
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad2.php on line 8
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:01 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:02 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:03 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:04 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:05 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:06 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:06 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:07 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:08 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:09 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:10 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:11 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:12 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:13 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:14 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:15 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:16 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:17 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:18 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:19 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:20 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:20 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:35:20 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:20 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:35:20 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:35:20 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:42 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:43 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:44 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:44 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:44 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:44 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:46 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:47 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:48 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:49 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 10
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 10
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[06-Jun-2017 09:43:50 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/orline7p/public_html/omg2k17/mentor/dist/mad5.php on line 9
+[14-Jun-2017 10:25:06 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[17-Jun-2017 17:07:42 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[19-Jun-2017 05:47:35 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[22-Jun-2017 05:36:16 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[22-Jun-2017 06:42:08 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[22-Jun-2017 07:16:14 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[22-Jun-2017 07:16:14 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[22-Jun-2017 14:48:07 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[27-Jun-2017 10:20:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[27-Jun-2017 10:20:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[27-Jun-2017 10:20:26 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[27-Jun-2017 10:20:26 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[28-Jun-2017 08:35:01 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[28-Jun-2017 08:35:01 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[29-Jun-2017 05:36:24 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[29-Jun-2017 05:36:24 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[02-Jul-2017 05:04:48 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[02-Jul-2017 05:04:48 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[02-Jul-2017 05:04:48 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[02-Jul-2017 05:04:51 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[02-Jul-2017 05:04:51 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[02-Jul-2017 05:04:51 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[02-Jul-2017 06:10:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[02-Jul-2017 06:10:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:10:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:10:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:10:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:10:25 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[02-Jul-2017 06:12:10 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[02-Jul-2017 06:12:10 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:12:10 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:12:10 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:12:10 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 06:12:10 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[02-Jul-2017 07:07:29 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[02-Jul-2017 07:07:29 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 07:07:29 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 07:07:29 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 07:07:29 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[02-Jul-2017 07:07:29 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[02-Jul-2017 07:08:43 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[02-Jul-2017 07:08:43 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[02-Jul-2017 07:08:43 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[02-Jul-2017 07:08:43 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[02-Jul-2017 07:08:43 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[02-Jul-2017 07:08:43 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[03-Jul-2017 06:24:06 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[03-Jul-2017 06:24:06 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[03-Jul-2017 06:24:06 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[03-Jul-2017 06:24:06 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[03-Jul-2017 06:24:06 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[03-Jul-2017 06:24:06 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[05-Jul-2017 00:35:37 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[05-Jul-2017 00:35:53 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 33
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:01:22 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 18
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 33
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[06-Jul-2017 05:02:27 Etc/GMT] PHP Notice:  Undefined index: user_email in /home/orline7p/public_html/omg2k17/mentor/dist/mad44.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 18
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48
+[25-Jul-2017 01:24:44 Etc/GMT] PHP Notice:  Undefined index: team_id in /home/orline7p/public_html/omg2k17/mentor/dist/mad66.php on line 48

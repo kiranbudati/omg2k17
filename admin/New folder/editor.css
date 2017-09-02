@@ -1,0 +1,11 @@
+.col-sm-7{width:58.333%}
+.widget-box{margin-top:7px;margin-bottom:7px}
+.widget-color-blue{border-color:#307ECC}
+.widget-color-blue>.widget-header{background:#307ECC;border-color:#307ECC}
+.widget-header-small{min-height:31px;padding-left:10px}
+.widget-header-small{min-height:31px;padding-left:10px}
+.widget-toolbox.toolbox-vertical,.widget-toolbox.toolbox-vertical+.widget-main{display:table-cell;vertical-align:top}
+.no-padding{padding:0!important}
+.widget-toolbox{background-color:#EEE}
+.rtl .btn .caret,.rtl .btn-group-vertical>.btn+.btn,.rtl .btn-group-vertical>.btn+.btn-group,.rtl .btn-group-vertical>.btn-group+.btn,.rtl .btn-group-vertical>.btn-group+.btn-group,.rtl .btn-group>.btn:first-child{margin-right:0;margin-left:auto}
+.pull-left{float:left}
